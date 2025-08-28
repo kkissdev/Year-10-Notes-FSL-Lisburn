@@ -14,9 +14,14 @@ To see the date of which you want to copy up on, check "weeks.md" and find the d
 
 ### Directory Example
 
-Geography
-|
-|- week_1.md
-|- week_2-3.md
-|- week_4-5-6.md
-|- week_7.md
+Geography  
+|  
+|- week_1.md  
+|- week_2-3.md  
+|- week_4-5-6.md  
+|- week_7.md  
+
+### --- END --- 
+
+It's also worth mentioning each subject gets a ```main.md``` which established units and subheadings categorised on the file. This makes it easier as it is now sorted by date or content.
+  
