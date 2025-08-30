@@ -7,3 +7,4 @@ Includes the dates 28 Aug and 29 Aug. (Thursday and Friday)
 
 Geography - **FIN**  
 Tech & Design - **FIN**
+Religious Education - **HAL**
