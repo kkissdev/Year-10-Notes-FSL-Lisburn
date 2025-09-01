@@ -13,4 +13,4 @@ Religious Education - **FIN**
 ## Week 2 - 01 Sep <a name="week2"></a>
 Includes the dates 1 Sep - 5 Sep. (Monday - Friday)
 
-Religious Education - **EMP**
+Religious Education - **FIN**
