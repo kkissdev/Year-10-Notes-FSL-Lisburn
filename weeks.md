@@ -14,3 +14,4 @@ Religious Education - **FIN**
 Includes the dates 1 Sep - 5 Sep. (Monday - Friday)
 
 Religious Education - **FIN**
+History - **FIN**
