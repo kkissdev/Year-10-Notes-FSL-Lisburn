@@ -13,8 +13,8 @@ Religious Education - **FIN**
 ## Week 2 - 01 Sep <a name="week2"></a>
 Includes the dates 1 Sep - 5 Sep. (Monday - Friday)
 
-Religious Education - **FIN**  
-History - **FIN**
-Home Economics - Food & Nutrition - Nutrition & Food Science - **FIN**
-Geography - **EMP**
-Biology - **EMP**
+Religious Education - **FIN**    
+History - **FIN**  
+Home Economics - Food & Nutrition - Nutrition & Food Science - **FIN**  
+Geography - **EMP**  
+Biology - **EMP**  
