@@ -16,5 +16,11 @@ Includes the dates 1 Sep - 5 Sep. (Monday - Friday)
 Religious Education - **FIN**    
 History - **FIN**  
 Home Economics - Food & Nutrition - Nutrition & Food Science - **FIN**  
-Geography - **EMP**  
-Biology - **EMP**  
+Geography - **FIN**  
+Biology - **FIN**  
+
+## Week 3 - 08 Sep <a name="week3"></a>
+Includes the dates 8 Sep - 12 Sep. (Monday - Friday)
+
+Biology - **FIN**  
+Religious Education - **HAL**
