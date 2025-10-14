@@ -2,30 +2,40 @@ did sports questions and evaluation
 # Sports questions
 
 **1. What carbohydrate should an athlete consume and why?**
+
 Athletes should consume complex carbohydrates because they are nutrient dense, filling and low in fat
 
+
 **2. What three factors influence the amount of energy required by an athlete?**
+
 Three factors which influence the amount of energy required by an athlete is the intensity and amount of the exercise, the type of exercise, and the level of fitness of the person.
 
 **3. What is meant by carbohydrate loading?**
+
 Carb-loading is the increase of carbohydrates by over 70% in the three preceding days of an event.
 
 **4. Which athletes required increased protein in their diet and why?**
+
 Athletes involved in heavy training have increased protein in their diet in order to gain muscle.
 
 **5. What are the benefits of sports drinks?**
+
 The benefits of sport drinks are that they get absorbed as quickly as water can and that it contains sugar for energy and in creases the rate of hydration.
 
 **6. Fluid intake is important during exercise. Justify this statement giving three reasons.**
+
 It is important because it is necessary for the body. Without fluids, you do not have the liquid to replace your sweat. If they do not drink enough, it will impact sports performance.
 
 **7. What are the consequences of inadequate fluid intake on a sports person?**
+
 The consequences of inadequate fluid intake on a sports person is that it can impact sports performance.
 
 **8. What is the function of B group vitamins for a sports person? Give 2 sources.**
+
 They assist with the releas of energy and are relevant for people who do sport. They can acquire B group vitamins by eating meat and eggs.
 
 **9. Complete the following sentence**
+
 A high fat diet is difficult to meet carbohydrate requirements and could affect **weight management** and **energy balance**.
 
 # Evaluation for the pasta bake
