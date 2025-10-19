@@ -45,3 +45,44 @@ The three main types of vegetarians:
 |vB12|Milk and dairy products, eggs|Fortified foods - breakfast cereals,soya milk and meat alternatices, vB12 supplements|
 
 Vegetarians can eat the foods vegans eat but not vice versa.
+
+### Health benefits of a vegetarian diet
+
+Some of the health benefites of a **well-planned and properly balanced** vegetarian diet include less risk of...
+- Heart Disease
+- High Blood Pressure
+- Strokes
+- Some forms of cancer
+- Diabetes
+- Bowel disorders e.g. constipation
+
+If a vegetarian diet is not well-planned or properly balanced a lack of...
+- Iron and Protein leads to low energy levels
+- vB12 which is essential for healthy blood and nerves
+- Calcium which is essential for strong teeth and bones
+
+### Vegetarian Meat Alternatives
+
+- Texturised vegetable protein (TVP)
+        - Protein is taken from soya beans
+        - Coloured and flavoured to look like meat
+        - Can be bought cubed or minced
+- Quorn
+        - Made from mycoprotein (a fine naturally occuring plant in soil)
+        - Can be bought cubed or minced to look like meat
+
+### Dos and Don'ts
+
+Do:
+- Eat a variety of foods from the five food groups
+- Eat fortified cereals for breakfast
+- Exceed the 5 a day target for fruit and veg
+- Include alternatives to meat to ensure protein needs can be met
+- Enjoy a wide variety of food and try new foods
+
+Don't:
+- Give up meat and replace it with other sources of important nutrient
+- Depend only on dairy products as a replacement for meat
+- Eat too many sugar or fatty foods
+- Rely on ready-made vegetarian meals and convenience foods
+- Exclude a food group from your diet
