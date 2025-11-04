@@ -24,3 +24,5 @@ Metal Pins - Allow the IC to be plugged into a PCB
 
 In order to use an IC, we must be able to identify the legs or pins of the component. The IC we will use in the reaction game project has 8 legs but it is not unusal for an IC to have more.
 
+<img width="301" height="360" alt="image" src="https://github.com/user-attachments/assets/d918edde-747e-44ad-9607-989571a457d1" />
+
