@@ -30,3 +30,4 @@ The primary immune response happens when someone encounters an antigen for they 
 
 The secondary response happens when an individual responds to a previously encountered antigen. (It could be the individual's second or third or... etc. time encountering the particular antigen) The Immune system will already have produced memory lymphocytes and they will still be present in the body. The memory lymphocytes will be able to produce a high level of antibodies very quickly and the level will remain high for a long period of time. An individual is often unaware when the secondary response occurs because they may not symptoms i.e. they may not catch the disease/become ill.
 
+<img width="304" height="247" alt="image" src="https://github.com/user-attachments/assets/dd906234-87b5-4c20-a320-dda15f8b6ae0" />
