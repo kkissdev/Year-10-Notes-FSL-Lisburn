@@ -31,3 +31,14 @@ The primary immune response happens when someone encounters an antigen for they 
 The secondary response happens when an individual responds to a previously encountered antigen. (It could be the individual's second or third or... etc. time encountering the particular antigen) The Immune system will already have produced memory lymphocytes and they will still be present in the body. The memory lymphocytes will be able to produce a high level of antibodies very quickly and the level will remain high for a long period of time. An individual is often unaware when the secondary response occurs because they may not symptoms i.e. they may not catch the disease/become ill.
 
 <img width="304" height="247" alt="image" src="https://github.com/user-attachments/assets/dd906234-87b5-4c20-a320-dda15f8b6ae0" />
+
+Individuals who are protected against a particular infection or disease are described as being immune the the diseas. If a person is immune it means that their antibody levels are hight enough, or high enough levels can be produced quickly enough, to combat the microorganism if it enters the body again.
+
+### Vaccinations
+
+
+Sometimes a booster vaccination is needed to maintain the high levels of antibodies needed to provide immunity.
+
+An individual with memory lymphocytes for a particular infection will be immune to it.
+
+In 1976, a scientist Edward Jenner developed a vaccine that would prevent people from catching smallpox. Smallpox was a very deadly disease. It killed more children each year than any other disease and also killed many thousands of adults.
