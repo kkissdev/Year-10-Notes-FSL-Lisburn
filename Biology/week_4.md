@@ -7,7 +7,7 @@ The body is very good at preventing most microorganisms from gaining entry and e
  - Mucous membranes line the respiratory system. They secrete mucus which traps microorganisms and stops them going any further. The mucus and trapped material are then moved by cilia to the throat where they are swallowed and then pass out of the body harmlessly
  - Blood clotting seal wounds and act as a barrier against infection. Platelets play a role in converting the soluble protein fibrinogen (found in blood plasma) to fibrin. Fibrin is an insoluble protein that forms fibres. The fibres form a mesh across the wound. Red blood cells and other cells get trapped in a tangle of fibrin threads, forming a blood clot. Blood clot formation is followed by scab formation.
 
-![poo](bloodclot.png)
+![bloodclot](bloodclot.png)
 
 ### Defence against microorganisms that have entered the body
 White blood cells defend the body against disease. There are two typed of white blood cells: Lymphocytes and Phagocytes. Lymphocytes produce antibodies while Phagocytes engulf and digest microorganisms.

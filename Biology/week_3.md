@@ -20,7 +20,7 @@ It is a common condition cause by a fungal infection. It spreads easily. It can 
 
 ## Communicable Diseases Information
 
-|Microbe|Type|Spread|[Prevention/Treament]|
+|Microbe|Type|Spread|[Prevention/Treatment]|
 |:-|:-|:-|:-|
 |Salmonella|Bacterium|Contamination (food)|Cooking food thoroughly, not mixing cooked and uncooked foods, antibiotics|
 |Tuberculosis|Bacterium|Airborne (Droplet infection)|Antibiotics|
