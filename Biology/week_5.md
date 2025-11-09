@@ -36,6 +36,7 @@ Individuals who are protected against a particular infection or disease are desc
 
 ### Vaccinations
 
+Vaccinations make individuals immuns to diseases. Vaccines contain antigens. The body's lymphocytes produce antibodies in response to the antigen present in the vaccine. Memory lymphocytes will also be produced. This is the primary response. If the microorganism with the same antigens is encountered again, after the vaccine, the memory lymphocytes will produce large numbers of the antibody very quickly. The individual will not get sick because the pathogen will be killed before it has the chance to breed and spread through the body. This is the secondary response. 
 
 Sometimes a booster vaccination is needed to maintain the high levels of antibodies needed to provide immunity.
 
