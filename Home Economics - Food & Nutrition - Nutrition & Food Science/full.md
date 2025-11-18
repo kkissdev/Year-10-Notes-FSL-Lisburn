@@ -6,7 +6,7 @@
 
  The 'Eatwell Guide' helps consumers by making it easy to see the types and proportions of different foods needed to achieve a healthy and well-balanced diet. Foods are divided onto the following five groups, which are represented by the plate:
 
- ![The Eatwell guide. if you cant see this yorue a poopy head](https://www.foodstandards.gov.scot/images/rte-images/eatwell-guide_1.png)
+![](https://appnhs24wp41a8c38064.blob.core.windows.net/blobappnhs24wp41a8c38064/wp-content/uploads/2023/04/eatwellguide.jpg)
 
 |Free space|Fruit and Vegetables|Potatoes, Bread, Rice, Pasta, and other starchy carbohydrates|Dairy and Alternatives|Beans, pulses, fish, eggs, meat, and other proteins|Oils and spreads|
 |:-|:-|:-|:-|:-|:-|
