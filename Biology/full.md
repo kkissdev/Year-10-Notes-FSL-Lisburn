@@ -21,7 +21,7 @@ Bacteria are single celled organisms.
 
 # **********INSERT DIAGRAM HERE**********
 
-It is similar to animal and plant cells with its cytoplasm and cell membrane. However, it is different from them because it has plasmids while they don't, bacteria have non-cellulose cell walls, while animal cells dont and plant cells have cellulose walls, and bacteria have no nucleus unlike plants and animals.
+It is similar to animal and plant cells with its cytoplasm and cell membrane. However, it is different from them because it has plasmids while they don't, bacteria have non-cellulose cell walls, while animal cells don't and plant cells have cellulose walls, and bacteria have no nucleus unlike plants and animals.
 
 Bacterial pathogens cause communicable diseases like salmonella and tuberculosis.
 
